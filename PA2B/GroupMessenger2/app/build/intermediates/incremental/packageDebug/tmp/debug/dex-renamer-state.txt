@@ -1,0 +1,4 @@
+#Tue Apr 02 21:04:47 EDT 2019
+base.0=/Users/msyed3/Documents/Projects/MS/Spring2019/DS/PA2B/GroupMessenger2/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

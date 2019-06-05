@@ -1,0 +1,4 @@
+#Thu Feb 07 23:08:23 EST 2019
+base.0=/Users/msyed3/Documents/Projects/MS/Spring2019/DS/PA1/SimpleMessenger/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
