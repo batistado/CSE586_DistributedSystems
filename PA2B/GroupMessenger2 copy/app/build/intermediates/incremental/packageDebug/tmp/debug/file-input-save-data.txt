@@ -1,7 +1,0 @@
-#Internal package file, do not edit.
-#Sun Feb 24 18:47:10 EST 2019
-0.baseType=DIRECTORY
-0.base=/Users/msyed3/Documents/Projects/MS/Spring2019/DS/PA2B/GroupMessenger2/app/build/intermediates/dex/debug/mergeDexDebug/out
-0.path=classes.dex
-0.set=DEX
-count=1
